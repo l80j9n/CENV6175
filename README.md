@@ -3,38 +3,46 @@ CENV6175W1
 COASTAL AND   MARITIME   ENGINEERING 
 SEMESTER   1 ASSESSMENT   PAPER 2020/21 
 Section A 
-A1.       A developer wants to build a 3   m   high   reinforced   concrete seawall   as   part of a   new   hotel.   Residents question the sustainability of the   approach.   Briefly discuss the sustainability aspects of reinforced concrete, and describe a more sustainable design   using   concrete      as   material.       [   8   ]
-A2. Describe an   N-wave, its characteristics   and   give   an   example   where such a wave can   occur.       [   8   ]
-A3. There are two wave breaking conditions. Describe both briefly and   give the relevant formulas for breaking wave   heights.       [   9   ]
-SECTION B
-B1. (i)             Figure   B1.1 shows   a   harbour   basin   for   leisure   craft.The   harbour has concrete side walls,   and   a   caisson   breakwater. There are reports of large   waves   inside   the      harbour      basin, even when there are only   moderate waves with a period T of around 10   seconds   outside   of   the harbour.   A local offshore   service provider company was asked to conduct   wave measurements. The company installed a   seabed   wave   height   sensor   at   point   ‘1’,   Fig.   B1.1.   Despite   further reports   from harbour users about   high   waves,   the   measurements   did   not   show   any   significant wave   heights. Analyse and comment.
-Assume the water depth inside the   harbour to   be   a   constant 5.0   m.
+A1. A 5   m wide wave power station is   designed   using   physical   model      tests with a scale of   1:10. The full scale   incident wave   height   is   Hi         =   1.5   m, the wave   period T =   11 seconds, the water depth   is   3   m.      Determine the wave parameters and the available wave   power for   the   model scale. Assume shallow water conditions.   Formulas are      given on   pages 9   and   10.       [      8      ]
+A2. Describe a simple model   for   depth   induced   wave   breaking,
+including a sketch and formulas. Compare the   model with the   general assumption for shallow water wave breaking.        [      8      ]
+A3. In   many   harbours   there   are   vertical   quay walls which   reflect   waves   and   may   make   standing   waves   possible.   Briefly   describe   a   standing wave   using   sketches.   Can   a   standing   wave   be   higher   than   the   waves outside the harbour? Briefly describe two methods to avoid   the build-up of standing waves   in   harbours.            [   9   ]
+NOTE:
+Wave Tables are given   on   page   8.
+Formulas are given on   pages   9   and   10.
+SECTION B 
+B1. A    tsunami    wave    at    breaking    has    an    estimated    waveheight   of   H1      =   3.0   m   (from   observations).   The   tsunami   consists of a wave train with a period of    T    =      1,200   seconds. The epicentre of the earthquake which   caused   the tsunami   is   located   at a water   depth   of   d0      =   1,800   m.   The   incoming   tsunami   at   landfall   is   idealised   as   a   bore   traveling with a   near vertical front, which   has   a   height   of   hB    = 3.0   m, and   a velocity   of vB    =   7   m/s.
+(i)   Determine the offshore wave   height   H0    of the tsunami   in   1,800   m depth   (Eq.’s   B1.1 and   1.2).        [   5   ]
+(ii) The land   has a   gentle   slope with   a   friction   free   surface, determine the   maximum run-up   height.        [   5   ]
+(iii)   It   is   planned to build a vertical tsunami wall   close   to      the shoreline.   Determine the maximum run-up   height   tW at the wall, assuming the   tsunami to constitute   a   reflected   bore of initial   height tB    =   3.0   m.   Use an iterative procedure (hint: start with water   depth tW    at   the   wall of tW    = 2.5 tB   , where tB    = 3.0m).   Three   iteration steps are sufficient. [   10   ]
+(iv) Comment on the result,   considering the   height   of   the total energy line of the   incoming tsunami wave.       [代 写CENV6175 COASTAL AND MARITIME ENGINEERING
+代做程序编程语言   5   ]
+NOTE:
+Wave Tables are given   on   page   8.
+Formulae are given on   pages   9   and   10.
+B2. Wave theory:(i)             A 200   m   long   harbour   basin   has   a   depth   of 7   m   depth,   and a width 50   m.   The   harbour walls   are   vertical.   Estimate   the longest wave periods for standing waves in both   directions,   using   linear   wave   theory.   Which   wave   is   more   critical, and why?       [   9   ](ii)            A lake has a fetch length of 20 km, and a depth   of 9   m.   The   wind   speed   for   1   hour   duration   was   measured   as   30   m/s, at   5   m   height.
+(a)          Determine the wave   height,   period   and   length   in
+9   m water depth.   Hint   :   Use   Fig.   B2.1.           [   4   ]
+(b)          At the windward end   of the   lake, there   is   a
+beach.   Determine the wave   height and   length of the   wave in   3.0 water   depth.        [   5   ]
+(iii)          From the formulas from linear wave theory for wave
+length and wave energy, derive a shoaling   coefficient   ks for   the change in wave   height when the wave travels from deep water into shallow water. ks      is the   ratio   of shallow water wave   height   Hi   to deep water wave height   H0   , ks   =   Hi/H0    (see   Eq.   B2.2). [   7   ] 
+NOTE:
+Wave Tables are given   on   page   8.
+Formulae are given on   pages   9   and   10
 
-Fig.   B1.1:   Plan view of   harbour[   10   ]
-(ii)                            Fig   B1.2 shows   a seawall with   a   water   depth   of   1.5   m.   The   design wave   period   is   4.4   seconds,   the offshore wave height H0 is 1.5 m. The   seawall has to be designed for the current   condition,   and   for   an   expected   sea level    rise   (SLR)   of 0.30   m.   The   seabed   is   smooth, with   a   bed    slope of 1:10. Assume a density of sea   water of ρsw    =   1030   kg/m3   .
-Determine:a)                Type and magnitude of maximum wave load   (maximum pressure and   force) on the structure   without   SLR.        [   5   ]
-b)       Type   and   magnitude   of   maximum   wave   load   with   SLR. Comment on   situation.        [   5   ]
-c)            wave   condition   /   load   type   for   max   H0       =    1.2   m   without and with SLR. Comment代 写CENV6175 COASTAL AND MARITIME ENGINEERING SEMESTER 1 ASSESSMENT PAPER 2020/21
-代做程序编程语言 on   the   results.        [   5   ]
+Fig.   B2.1   : Wave generation   nomogram, d =   9.0   m
+B3. Wave diffraction:   The harbour shown in Fig B3.1 has to be designed   for (1) a wave period of T1   = 6 seconds and an offshore wave height   of   H01    = 2.3   m, and   (2) for a wave   with   a   period   of T2      =   12   seconds   and   a   deep   water   wave   height   of   H02      =   1.8   m.   The   water   depth   d   inside and outside of the harbour is   constant,   with   d   =   10.0   m.(i) Determine the maximum wave height / surface elevations   at   points ‘1’ at the   harbour wall,   and   point ‘2’   in   the   harbour   basin for T1    = 6 seconds.   Use   Fig.   B3.2. [   8   ] 
+(ii)   Determine the wave   height at point ‘2’ for T2      =   12   seconds.   Use   Fig.   B3.2.       [   6   ]
+(iii)   Define the critical design wave for point ‘2’   .   Use   Fig.   B3.2.            [   6   ]
+(iv) What could   be done to reduce the wave   height   at   point   ‘1’?           [   5   ]
+NOTE:
+Wave Tables are given   on   page   8.
+Formulas are given on   pages   9   and   10.
 
-Fig.   B1.2: Seawall
-B2. Tsunamis:
-A tsunami wave with a height   H0    =   1.0 m and a wave   period   of 500 seconds   is generated in a water   depth   of 2,000   m.
-(i)                            Determine the wave condition (shallow          /
-intermediate   /   deep   water)   of   the   tsunami   wave   at   its   origin.        [   5   ]
-(ii)                         Determine the maximum wave   height   Hmax      near the   coastline,   using the conservation of energy and   the   breaking wave condition.        [   8   ]
-(iii)                      The tsunami wave of height H   max arrives at theshoreline   as   an   N-wave,   with   a   preceding   trough.   Assuming the wave to constitute a boreas shown in   Fig.   B2.1, and   using a small   control volume with   an   energy principle, determine its speed of   propagation.       [   5   ]
-(iv)                      Compare   the    result   with   the   standard   formula   for
-wave celerity in shallow water,   comment   briefly.        [   7   ]
+Fig.   B3.1:   Plan view of harbour
 
-Fig.   B2.1:   Idealised tsunami wave with   preceding trough
-B3. Wave   refraction:
-(i)                           A   developer   suggests   the   construction   of   a   wave   power station. There are two   possible sites,   one   on   a    headland   and   one in   a bay.   At    both   sites,   the   waves approach the coastline with the wave crest in   deeper water   near   parallel   to the   coast. Which   site   is   preferrable,   and   why?   Explain   your   answer   with   sketches.       [   9   ]
-(ii)                         Fig.   B3.1   shows   a   wave   of   height   H1       =    1.0   m   andperiod   T    =    5    seconds    propagating    from    a    water   depth of d1    = 3.0 m into a water depth   of d2    = 5.0   m.   The   wave   crest   arrives   with   an   angle   of   α   1       =   35   degrees with the contour   line.
-(a)      Determine the wave direction and wave   height for the water depth d2   .       [   8   ](b)    The      wave      direction      changes      to      α   1   ’      =      75   degrees,what   is   the   wave   height   and   direction   in   the deeper water?           [   8   ]
-Assume shallow water conditions throughout.
-
-Fig.   B3.1: Wave   refraction
+Fig.   B3.2:   Diffraction diagram
 
 
 
